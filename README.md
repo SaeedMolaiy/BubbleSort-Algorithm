@@ -1,0 +1,2 @@
+# BubbleSort-Algorithm
+ A C# implementation of the Bubble Sort algorithm with optimizations. Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. This repository contains a straightforward implementation of Bubble Sort and an optimized version that starts from the swapped index and reverses the loop for better performance.
